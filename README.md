@@ -18,4 +18,7 @@ Repository for the CENG316 Course that I have taken at IZTECH
 14. Updated Design and & Test Report Discussion I
 15. Final release of the Software System and Demonstration
 
-Textbooks can be found on: [Course textbook](/Textbooks/Engineering_a_Compiler.pdf)
+Textbooks can be found on: [Course textbook](/Textbooks/Ian_Sommerville_Software_Engineering.pdf)
+
+Note: As the size of project's backend is big it is provided under the Project_Implementation directory as 
+as zip file. Front end of the project can be similarly found under the Project_Implementation directory.
