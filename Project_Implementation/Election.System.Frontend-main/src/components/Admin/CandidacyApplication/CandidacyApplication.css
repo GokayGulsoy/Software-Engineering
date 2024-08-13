@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue; 
+}
+.container{
+    display: block !important;
+    flex-wrap: wrap;
+    align-items:baseline;
+    width: auto;
+    height:100vh;
+      
+}
+.container-candidate{
+    display: block !important;
+    flex-wrap: wrap;
+    align-items:baseline;
+    width: auto;
+    height:100vh;
+    
+}
+.candidate{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    height: auto;
+    text-align: center;
+    
+}

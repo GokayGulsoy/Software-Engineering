@@ -1,0 +1,12 @@
+.candidacy-card{
+    width: 50% !important;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.container{
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+      
+}

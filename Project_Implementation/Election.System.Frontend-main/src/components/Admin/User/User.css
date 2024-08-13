@@ -1,0 +1,9 @@
+
+.profile-body p {
+  margin-bottom: 20px;
+  text-align: left;
+}
+.profile-element{
+  display: flex;
+  justify-content: space-between;
+}

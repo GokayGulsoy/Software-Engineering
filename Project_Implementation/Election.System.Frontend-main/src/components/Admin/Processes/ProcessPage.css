@@ -1,0 +1,36 @@
+.container{
+    display: block !important;
+    flex-wrap: wrap;
+    align-items:baseline;
+    width: auto;
+    height:100vh;
+    background-color: aliceblue;   
+}
+.container-announcement{
+    display: block !important;
+    flex-wrap: wrap;
+    align-items:baseline;
+    width: auto;
+    height:100%;
+    background-color: aliceblue; 
+}
+.announcement{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    height: auto;
+    text-align: center;
+    
+}
+.button{
+    display: flex !important;
+    text-align: left;
+    justify-content: left !important;
+    width: 50px;
+    position: fixed;
+
+    
+}
+.icon-button :hover{
+    background-color: #d40f0f;
+}
